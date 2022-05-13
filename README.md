@@ -1,6 +1,10 @@
 # SuperMaxx5000BarrelLug
 A simple replacement barrel lug for the Supermaxx 5000 family of blasters.
 
+<img src="GHimages/SM5K%20barrel%20lug%20printed%201.jpg" width="300">
+<img src="GHimages/SM5K%20replacement%20barrel%20v5%201%20-%20Copy.png" width="400">
+
+
 ## Description
 
 A simple replacement barrel lug for the Supermaxx 5000 family of blasters. Fitted for 1/2in CPVC to be glued in. Can be edited easily to fire other types of ammo.
@@ -41,4 +45,9 @@ And here's my Etsy: https://www.etsy.com/shop/sillybuttsshop
 
 ## Images
 
-<img src="GHimages/" width="500">
+<img src="GHimages/SM5K%20barrel%20lug%20printed%201.jpg" width="500">
+<img src="GHimages/SM5K%20barrel%20lug%20printed%202.jpg" width="500">
+<img src="GHimages/SM5K%20replacement%20barrel%20v5%201%20-%20Copy.png" width="500">
+<img src="GHimages/SM5K%20replacement%20barrel%20v5%202%20-%20Copy.png" width="500">
+<img src="GHimages/SM5K%20replacement%20barrel%20v5%203%20-%20Copy.png" width="500">
+<img src="GHimages/SM5K%20replacement%20barrel%20v5%204%20-%20Copy.png" width="500">
