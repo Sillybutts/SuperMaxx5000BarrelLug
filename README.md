@@ -4,6 +4,10 @@ A simple replacement barrel lug for the Supermaxx 5000 family of blasters.
 <img src="GHimages/SM5K%20barrel%20lug%20printed%201.jpg" width="300">
 <img src="GHimages/SM5K%20replacement%20barrel%20v5%201%20-%20Copy.png" width="400">
 
+<a href="https://www.printables.com/model/875529-nerf-supermaxx-5000-replacement-barrel"><img alt="Printables Button" style="border-width:0" src="GHimages/sillybutts%20is%20now%20on%20printables%20thumbnail.png" height="400" /></a>
+
+## I ALSO UPLOAD TO PRINTABLES https://www.printables.com/model/875529-nerf-supermaxx-5000-replacement-barrel
+
 
 ## Description
 
